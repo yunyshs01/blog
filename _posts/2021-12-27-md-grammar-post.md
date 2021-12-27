@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "마크다운 기본 문법"
+comment: true
 ---
 
 # 마크다운 기본 문법
