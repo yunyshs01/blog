@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title:  "마크다운 기본 문법"
 comments: true
 ---
