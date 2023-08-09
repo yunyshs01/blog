@@ -108,7 +108,7 @@ author:
   bio              : "컴퓨터공학과 3학년 (백수)"
   location         : "인천광역시"
   email            : "jeoung09@gmail.com"
-  links:
+  links            :
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
        url: "jeoung09@gmail.com"
